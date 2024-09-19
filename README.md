@@ -13,3 +13,6 @@ My focus was on contributing to the software’s front end with Svelte. This pro
   <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
