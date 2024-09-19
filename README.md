@@ -1,38 +1,15 @@
-# create-svelte
+### About The Project
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Software to Assess the Viability of Seedling Trays
 
-## Creating a project
+This project was a collaboration with a team of four other students to develop a program using OpenCV, a software library for image processing, to calculate the viability of vegetable seedling trays.
+My focus was on contributing to the software’s front end with Svelte. This project was presented to the client and a panel of judges during UC Merced’s annual Innovate to Grow event, emphasizing the program's success in delivering an automated solution for assessing seedling tray viability.
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Built With
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<div display="flex">
+  <a href="https://svelte.dev/">
+    <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+  </a>
