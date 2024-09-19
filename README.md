@@ -16,3 +16,8 @@ My focus was on contributing to the software’s front end with Svelte. This pro
   <a>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
+
+
+### Credits
+Team:
+Guru Bachchu, Herminda Cisneros Duran, John Galindo, Mashaallah Moradi  
